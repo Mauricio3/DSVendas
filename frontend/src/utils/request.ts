@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://sds3-mauriciomonteiro.herokuapp.com'
+export const BASE_URL = 'https://sds3-mauriciomonteiro.herokuapp.com' ?? 'http://localhost:8080'
