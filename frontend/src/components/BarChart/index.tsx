@@ -50,6 +50,7 @@ const BarChart = () => {
                         }
                     ]
                 });
+                console.log(BASE_URL);
             });
     }, []);
 
